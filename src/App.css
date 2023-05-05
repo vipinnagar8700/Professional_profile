@@ -1,0 +1,78 @@
+  @import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@600&family=Pacifico&display=swap');
+
+body{
+padding: 0px;
+margin: 0px;
+font-family: 'DynaPuff', cursive;
+font-family: 'verela', cursive;
+}
+.App {
+  text-align: center;
+}
+
+.nav {
+  background-color: #0A1310;
+  padding: 20px;
+  color: 'white';
+
+
+}
+.containered{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.type-writter-effect{
+  color:#fff;
+  font-size: 60px;
+  font-family: 'serif';
+  font-weight: bold;
+  line-height: 1.7;
+}
+.Error-page{
+  background-color: aquamarine;
+}
+.Hero-section{
+  background-image: url('https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg');
+}
+.Link {
+  color: '#fff';
+  font-size: 20;
+  font-weight: 'bold';
+  font-family: 'cursive';
+}
+.About{
+  padding-top: 20px;
+  background-color: #0A1310;
+  color:#F22;
+  padding-bottom:20px;
+}
+
+.Services{
+  padding-top: 20px;
+  background-color: #0A1310;
+  color:#F22;
+  padding-bottom:40px;
+}
+.Skills{
+  padding-top: 20px;
+  background-color: #0A1310;
+  color:#F22;
+  padding-bottom:40px;
+}
+.projects{
+  padding-top: 20px;
+  background-color: #0A1310;
+  color:#F22;
+  padding-bottom:40px;
+}
+.contact{
+  padding-top: 20px;
+  background-color: #0A1310;
+  color:#F22;
+  padding-bottom:40px;
+}
+/* Desktop screen */
+.footer{
+  background-color: #0A1310;
+  color:#F22
+}
